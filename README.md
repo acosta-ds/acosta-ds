@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://github.com/acosta-ds/acosta-ds/blob/main/gifs/wave.gif" width="50px" height="50px"></img>, I'm <a href="https://www.linkedin.com/in/christian-acosta-data-specialist/">Christian Acosta</a></h1>.
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/acosta-ds/acosta-ds/master/gifs/wave.gif" width="50px" height="50px"></img>, I'm <a href="https://www.linkedin.com/in/christian-acosta-data-specialist/">Christian Acosta</a></h1>.
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=648DE5&background=000000&vCenter=true&repeat=false&random=false&width=105&lines=Data" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=52FF60&background=000000&vCenter=true&random=true&width=240&lines=Specialist;Analyst;Scientist;Engineer" alt="Typing SVG" /></a></h1>
 
@@ -10,12 +10,12 @@
 📝 If you need more Information: <a href="https://drive.google.com/file/d/1dN5z9dgK_0aSMzxufHg-FDTzJOtOq_D4/view?usp=sharing">My CV</a> or send me an email to <a href = "mailto:christian.acostads@gmail.com" target="blank">christian.acostads@gmail.com</a>
 </pre>
 
-## <img src = "https://raw.githubusercontent.com/acosta-ds/acosta-ds/main/gifs/tech.webp" width = 32px> Tech Stack
+## <img src = "https://raw.githubusercontent.com/acosta-ds/acosta-ds/master/gifs/tech.webp" width = 32px> Tech Stack
 <p align="center">
   <a href="https://www.linkedin.com/in/christian-acosta-data-specialist/">
     <img src="https://skillicons.dev/icons?i=py,git,postgres,aws,linux,mongodb,docker,azure,bash,ubuntu" />
-    <img width="45px" src="https://github.com/acosta-ds/acosta-ds/blob/main/gifs/PBI.svg" />
-    <img width="45px" src="https://github.com/acosta-ds/acosta-ds/blob/main/gifs/snowflake.png" />
+    <img width="45px" src="https://github.com/acosta-ds/acosta-ds/blob/master/gifs/PBI.svg" />
+    <img width="45px" src="https://github.com/acosta-ds/acosta-ds/blob/master/gifs/snowflake.png" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="https://drive.google.com/file/d/13n5zqVBFWI_HhLx8qoHb_CVAOSktSVJS/view?usp=sharing" title="Sales Project">
-        <img align="center" width=50% src="https://github.com/acosta-ds/acosta-ds/blob/main/gifs/Screenshot.PNG"   alt="VIDEO" /></a>
+        <img align="center" width=50% src="https://raw.githubusercontent.com/acosta-ds/acosta-ds/master/gifs/Screenshot.PNG"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <pre>Video of a Sales Dashboard created with Power BI</pre>
@@ -48,15 +48,15 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Let's Connect
 <p align="center">
-<a href="mailto:christian.acostads@gmail.com"><img align="center" src="https://github.com/acosta-ds/acosta-ds/blob/main/gifs/Gmail.svg" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/christian-acosta-data-specialist/"><img align="center" src="https://github.com/acosta-ds/acosta-ds/blob/main/gifs/Linkedin.svg" height="50" width="50" /></a> 
-<a href="https://wa.me/+573058179428"><img align="center" src="https://raw.githubusercontent.com/acosta-ds/acosta-ds/main/gifs/Whatsapp.webp" height="50" width="50" /></a>
-<a href="https://github.com/acosta-ds/acosta-ds" target="blank"><img align="center" src="https://github.com/acosta-ds/acosta-ds/blob/main/gifs/Github.png" height="50" width="50" /></a>
+<a href="mailto:christian.acostads@gmail.com"><img align="center" src="https://raw.githubusercontent.com/acosta-ds/acosta-ds/4b24bdfb0f9998e4370f872180797b64d8c0c261/gifs/Gmail.svg" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/christian-acosta-data-specialist/"><img align="center" src="https://raw.githubusercontent.com/acosta-ds/acosta-ds/4b24bdfb0f9998e4370f872180797b64d8c0c261/gifs/Linkedin.svg" height="50" width="50" /></a> 
+<a href="https://wa.me/+573058179428"><img align="center" src="https://raw.githubusercontent.com/acosta-ds/acosta-ds/master/gifs/Whatsapp.webp" height="50" width="50" /></a>
+<a href="https://github.com/acosta-ds/acosta-ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/acosta-ds/acosta-ds/master/gifs/Github.png" height="50" width="50" /></a>
   
 </p>
 
 <p align="center">
-  <img src="https://github.com/acosta-ds/acosta-ds/blob/main/gifs/snake.svg" alt="snake">
+  <img src="https://github.com/acosta-ds/acosta-ds/blob/master/gifs/snake.svg" alt="snake">
 </p>
 
 <div align="center">
