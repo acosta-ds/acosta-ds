@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+  <img src="https://github.com/acosta-ds/acosta-ds/blob/main/gifs/snake.svg" alt="snake">
 </p>
 
 <div align="center">
