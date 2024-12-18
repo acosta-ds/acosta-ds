@@ -41,7 +41,19 @@
     <p align="center">
         <pre>Video of a Sales Dashboard created with Power BI</pre>
     </p> 
-</td>
+  </td>
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://drive.google.com/file/d/1gce8qb1RBYhUL3KncIoNK6AEQEUDP-9I/view?usp=sharing" title="DE with Snowflake and AWS">
+        <img align="center" width=50% src="https://raw.githubusercontent.com/acosta-ds/acosta-ds/mastergifs/Front Page DE.png"   alt="VIDEO" /></a> 
+      </p>
+    <p align="center">
+        <pre>Data Engineer Challenge with Snowflake and AWS</pre>
+    </p> 
+  </td>
+
+
+
   
 </tr>
 </table>
